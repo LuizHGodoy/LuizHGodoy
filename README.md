@@ -4,10 +4,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHGodoy&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-##### 🐛 Creating b̶u̶g̶s̶ features since 2021
-##### 👓 Current studying new tecnologies and doing a lot of testing
-##### 🚀 My main goal is to learn as much as i can i build amazing stuff
-##### 🎮 and i do a lot of gamming, so if you wanna talk about it to just dm me!
+#### 🐛 Creating b̶u̶g̶s̶ features since 2021
+#### 👓 Current studying new tecnologies and doing a lot of testing
+#### 🚀 My main goal is to learn as much as i can i build amazing stuff
+#### 🎮 and i do a lot of gamming, so if you wanna talk about it to just dm me!
 
 ## I code with
 <div align="center">
