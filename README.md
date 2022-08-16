@@ -2,7 +2,7 @@
 #### My name is Luiz and i'm from Brazil 🇧🇷 nice to see you here
 ### So i'm a frontend engineer with about 1 year of pro experience 🔥
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHGodoy&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/LuizHGodoy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHGodoy&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/LuizHGodoy?tab=repositories)
 
 #### 🐛 Creating b̶u̶g̶s̶ features since 2017
 #### 👓 Current studying new tecnologies and doing a lot of testing
