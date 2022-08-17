@@ -6,7 +6,7 @@
 
 #### 🐛 Creating b̸u̸g̸s̸ features since 2017
 #### 👓 Current studying new tecnologies and doing a lot of testing
-#### 🚀 My main goal is to learn as much as i can i build amazing stuff
+#### 🚀 My main goal is to learn as much as i can and build amazing stuff
 #### 🎮 and i do a lot of gamming, so if you wanna talk about it to just dm me!
 
 ## I code with
