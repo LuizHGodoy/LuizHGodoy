@@ -1,8 +1,17 @@
 ## Hi i'm Luiz 🤠
+![](https://visitor-badge.laobi.icu/badge?page_id=LuizHGodoy.LuizHGodoy) [![Github](https://img.shields.io/github/followers/LuizHGodoy?label=Followers&logo=Github)](https://github.com/LuizHGodoy)
 #### My name is Luiz and i'm from Brazil 🇧🇷 nice to see you here
-### So i'm a frontend engineer with about 1 year of pro experience 🔥
+### So i'm a frontend engineer with about 2 years of pro experience 🔥
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHGodoy&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/LuizHGodoy?tab=repositories)
+
+
+<div style="display: flex; flex-direction: column;">
+<img src="https://github-readme-stats.vercel.app/api?username=IgorM-Oliveira&count_private=true&show_icons=true&theme=tokyonight&custom_title=MyStats" width="40%"/>  
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizHGodoy&theme=tokyonight&show_icons=true" alt="LuizHGodoy's top languages" width="40%" />
+
+
 
 #### 🐛 Creating b̸u̸g̸s̸ features since 2017
 #### 👓 Current studying new tecnologies and doing a lot of testing
