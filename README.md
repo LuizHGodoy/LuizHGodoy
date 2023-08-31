@@ -1,7 +1,7 @@
 ## Hi i'm Luiz 🤠
 ![](https://visitor-badge.laobi.icu/badge?page_id=LuizHGodoy.LuizHGodoy) [![Github](https://img.shields.io/github/followers/LuizHGodoy?label=Followers&logo=Github)](https://github.com/LuizHGodoy)
 #### My name is Luiz and i'm from Brazil 🇧🇷 nice to see you here
-### So i'm a frontend engineer with about 2 years of pro experience 🔥
+### i'm a frontend engineer with about 2 years of experience 🔥
 
 ## Get in touch:
   <a href="https://www.linkedin.com/in/luiz-godoy-245731235//">
