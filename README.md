@@ -3,10 +3,7 @@
 #### My name is Luiz and i'm from Brazil 🇧🇷 nice to see you here
 ### i'm a frontend engineer with about 2 years of experience 🔥
 
-## Get in touch:
-  <a href="https://www.linkedin.com/in/luiz-godoy-245731235//">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />	  
-  </a>
+## Get in touch:  
   <a href="https://www.instagram.com/luizinhoinsano.jsx/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
