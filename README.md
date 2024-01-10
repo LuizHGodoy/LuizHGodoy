@@ -15,7 +15,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizHGodoy&theme=tokyonight&show_icons=true" alt="LuizHGodoy's top languages" width="40%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user={LuizHGodoy}&theme={dark}" alt="streak-counter"></img>
 
 #### 🐛 Creating b̸u̸g̸s̸ features since 2017
 #### 👓 Current studying new tecnologies and doing a lot of testing
