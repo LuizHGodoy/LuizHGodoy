@@ -25,7 +25,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
 Aqui estão alguns projetos que desenvolvi:
 
-- **[endPoint](https://github.com/LuizHGodoy/endPoint):** Projeto em TypeScript para gerenciamento de endpoints.
+- **[endPoint](https://github.com/LuizHGodoy/endPoint):** Cliente HTTP feito em TypeScript para gerenciamento de endpoints.
 - **[cursor-chase](https://github.com/LuizHGodoy/cursor-chase):** Jogo divertido desenvolvido em TypeScript.
 - **[its-me-MAARIO](https://github.com/LuizHGodoy/its-me-MAARIO):** Demo do jogo Super Mario World em JavaScript.
 
