@@ -28,6 +28,9 @@ Aqui estão alguns projetos que desenvolvi:
 - **[endPoint](https://github.com/LuizHGodoy/endPoint):** Cliente HTTP feito em TypeScript para gerenciamento de endpoints.
 - **[cursor-chase](https://github.com/LuizHGodoy/cursor-chase):** Jogo divertido desenvolvido em TypeScript.
 - **[its-me-MAARIO](https://github.com/LuizHGodoy/its-me-MAARIO):** Demo do jogo Super Mario World em JavaScript.
+- **[Planning Poker](https://planning-poker-fe.vercel.app):** Aplicação para estimativas ágeis em equipe.
+  - **Frontend:** [Repositório](https://github.com/LuizHGodoy/mango-juice-fe) | [Demo](https://planning-poker-fe.vercel.app)
+  - **Backend:** [Repositório](https://github.com/LuizHGodoy/mango-juice-be)
 
 ## 📈 Estatísticas do GitHub
 
