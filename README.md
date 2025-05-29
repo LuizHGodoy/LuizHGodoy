@@ -2,11 +2,6 @@
 
 Sou um desenvolvedor fullstack apaixonado por criar soluções que facilitam o dia a dia. Adoro mergulhar em novos desafios e aprender constantemente.
 
-- 🌍 **Localização:** Dourados-MS, Brasil
-- 💼 **LinkedIn:** [luiz-godoy-543515160](https://www.linkedin.com/in/luiz-godoy-543515160/)
-- 📧 **E-mail:** [luizgodoydourados@gmail.com](mailto:luizgodoydourados@gmail.com)
-- 📱 **WhatsApp:** [+55 (67) 99660-2185](https://wa.me/5567996602185)
-
 ## 🚀 Tecnologias e Ferramentas
 
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
