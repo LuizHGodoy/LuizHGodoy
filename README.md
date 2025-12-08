@@ -1,41 +1,77 @@
-# Olá! Eu sou o Luiz Godoy 👋
+# Hi, I'm Luiz Godoy! 👋
 
-Sou um desenvolvedor fullstack apaixonado por criar soluções que facilitam o dia a dia. Adoro mergulhar em novos desafios e aprender constantemente.
-
-## 🚀 Tecnologias e Ferramentas
-
-Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-## 🛠 Projetos em Destaque
-
-Aqui estão alguns projetos que desenvolvi:
-
-- **[endPoint](https://github.com/LuizHGodoy/endPoint):** Cliente HTTP feito em TypeScript para gerenciamento de endpoints.
-- **[cursor-chase](https://github.com/LuizHGodoy/cursor-chase):** Jogo divertido desenvolvido em TypeScript.
-- **[its-me-MAARIO](https://github.com/LuizHGodoy/its-me-MAARIO):** Demo do jogo Super Mario World em JavaScript.
-- **[Planning Poker](https://planning-poker-fe.vercel.app):** Aplicação para estimativas ágeis em equipe.
-  - **Frontend:** [Repositório](https://github.com/LuizHGodoy/mango-juice-fe) | [Demo](https://planning-poker-fe.vercel.app)
-  - **Backend:** [Repositório](https://github.com/LuizHGodoy/mango-juice-be)
-
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub de Luiz](https://github-readme-stats.vercel.app/api?username=LuizHGodoy&show_icons=true&theme=dracula)
-
-## 🏆 Conquistas
-
-![Troféus do GitHub de Luiz](https://github-profile-trophy.vercel.app/?username=LuizHGodoy&theme=dracula)
+A **Full-Stack Developer** passionate about building solutions that simplify everyday life. I thrive on new challenges and am dedicated to continuous learning.
 
 ---
 
-*Última atualização:* 16/02/2025
+## 💻 Tech Stack & Toolkit
 
+Here are the technologies and tools I frequently work with.
+
+### 🌟 Core Languages
+
+These are my go-to languages and favorites.
+
+| Language | Badge |
+| :--- | :--- |
+| **TypeScript** | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Node.js** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
+| **Python** | ![Python](https://img.shields.io/badge/Python%20-3776AB?style=for-the-badge&logo=python&logoColor=fff) |
+| **PHP** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) |
+| **Rust** | ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) |
+| **Go** | ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white) |
+| **C++** | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) |
+
+### 🛠 Other Technologies
+
+| Category | Badges |
+| :--- | :--- |
+| **Frontend web** | ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff) ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)|
+| **Frontend mobile** | ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white) |
+| **Database** | ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)  |
+| **Other Back-end** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+
+---
+
+## 💡 Projects by Stack
+
+Highlighting a project for a specific stack helps demonstrate your expertise in those areas.
+
+### 🟣 TypeScript & Node.js (Full-Stack)
+
+A project showcasing end-to-end development with the core JavaScript ecosystem.
+
+| Stack | Project |
+| :--- | :--- |
+| **TS/Node/React** | **[Planning Poker](https://planning-poker-fe.vercel.app)**: A tool for agile team estimations. |
+
+### 🔵 TypeScript (Utility/CLI)
+
+For command-line tools or utilities written in my favorite language.
+
+| Stack | Project |
+| :--- | :--- |
+| **TypeScript** | **[endPoint](https://github.com/LuizHGodoy/endPoint)**: An HTTP client utility for managing endpoints. |
+
+### 🟢 JavaScript (Legacy/Learning)
+
+Demonstrating foundational skills or fun projects.
+
+| Stack | Project |
+| :--- | :--- |
+| **JavaScript** | **[its-me-MAARIO](https://github.com/LuizHGodoy/its-me-MAARIO)**: A Super Mario World game demo for learning. |
+
+---
+
+## 📈 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizHGodoy&show_icons=true&theme=dracula&count_private=true" alt="Luiz's GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LuizHGodoy&theme=dracula" alt="Luiz's GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+  *Last Updated: February 16, 2025*
+</div>
