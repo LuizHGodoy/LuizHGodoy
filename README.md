@@ -62,16 +62,3 @@ Demonstrating foundational skills or fun projects.
 | **JavaScript** | **[its-me-MAARIO](https://github.com/LuizHGodoy/its-me-MAARIO)**: A Super Mario World game demo for learning. |
 
 ---
-
-## 📈 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizHGodoy&show_icons=true&theme=dracula&count_private=true" alt="Luiz's GitHub Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=LuizHGodoy&theme=dracula" alt="Luiz's GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-  *Last Updated: February 16, 2025*
-</div>
