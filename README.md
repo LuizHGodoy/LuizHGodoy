@@ -33,6 +33,23 @@ These are my go-to languages and favorites.
 
 ---
 
+## 📊 Languages Overview
+
+A quick snapshot of the languages used across my repositories.
+
+| Language | Repos | Usage |
+| :--- | :---: | :--- |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) **TypeScript** | 57 | ████████████████████ |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | 18 | ██████ |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | 6 | ██ |
+| ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) **CSS** | 3 | █ |
+| ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) **Shell** | 2 | █ |
+| ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) **HTML** | 2 | █ |
+| ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) **Rust** | 1 | ▌ |
+| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) **C++** | 1 | ▌ |
+
+---
+
 ## 💡 Projects by Stack
 
 Highlighting a project for a specific stack helps demonstrate your expertise in those areas.
