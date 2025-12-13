@@ -33,14 +33,14 @@ These are my go-to languages and favorites.
 
 ---
 
-## 🔥 My Stats
+## 📊 My Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizHGodoy&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizHGodoy&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHGodoy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHGodoy&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
