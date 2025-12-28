@@ -1,6 +1,8 @@
 # Hi, I'm Luiz Godoy! 👋
 
-A **Full-Stack Developer** passionate about building solutions that simplify everyday life. I thrive on new challenges and am dedicated to continuous learning.
+**Building tools that actually make sense.**
+
+Currently focused on React & Nodejs. I like solving real problems and keeping my code clean.
 
 ---
 
