@@ -1,78 +1,49 @@
-# Hi, I'm Luiz Godoy! 👋
+<a href="https://luizgodoy.dev"><img src="assets/hero.svg" width="100%" alt="luiz godoy. full-stack netrunner from dourados-ms, brazil. i ship weird useful stuff on cloudflare workers, mostly at 4pm, sometimes at 3am. games, agents, desktop pets, u know?"></a>
 
-**Building tools that actually make sense.**
+<p align="center"><a href="https://luizgodoy.dev"><img src="assets/cta.svg" height="50" alt="breach it: take the ride on luizgodoy.dev"></a></p>
 
-Currently focused on React & Nodejs. I like solving real problems and keeping my code clean.
-
----
-
-## 💻 Tech Stack & Toolkit
-
-Here are the technologies and tools I frequently work with.
-
-### 🌟 Core Languages
-
-These are my go-to languages and favorites.
-
-| Language       | Badge                                                                                                              |
-| :------------- | :----------------------------------------------------------------------------------------------------------------- |
-| **TypeScript** | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Node.js**    | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)          |
-| **Python**     | ![Python](https://img.shields.io/badge/Python%20-3776AB?style=for-the-badge&logo=python&logoColor=fff)             |
-| **PHP**        | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)                                   |
-| **Rust**       | ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)               |
-| **Go**         | ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)                                      |
-| **C++**        | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)                                |
-
-### 🛠 Other Technologies
-
-| Category            | Badges                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| :------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frontend web**    | ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff) ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)                                                                                                                                                                                                  |
-| **Frontend mobile** | ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)                                                                                                                                                                                      |
-| **Database**        | ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff) |
-| **Other Back-end**  | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                                                                                                                            |
-
----
-
-## 📊 My Stats
+<img src="assets/gigs.svg" width="100%" alt="gigs. fixer board: 10 open contracts, all real, mostly shipped as one cloudflare worker + d1/do/kv/r2.">
 
 <p align="center">
-  <img src="https://github-readme-stats-ten-khaki-98.vercel.app/api?username=LuizHGodoy&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<a href="https://luizgodoy.dev/#gig-01"><img src="assets/gig-01.svg" width="49%" alt="gig 01: bits, a main bot that runs a crew of claude code bots in ur repos"></a>
+<a href="https://auroratcg.app"><img src="assets/gig-02.svg" width="49%" alt="gig 02: aurora arena tcg, a fan-made pokemon tcg in the browser. auroratcg.app"></a>
 </p>
+<p align="center">
+<a href="https://schemaflow.uk"><img src="assets/gig-03.svg" width="49%" alt="gig 03: schemaflow, db diagrams with live collab and an mcp server. schemaflow.uk"></a>
+<a href="https://plugpal.luizgodoy.dev"><img src="assets/gig-04.svg" width="49%" alt="gig 04: plugpal, a pixel pet that reacts to ur charger. plugpal.luizgodoy.dev"></a>
+</p>
+<p align="center">
+<a href="https://luizgodoy.dev/#gig-05"><img src="assets/gig-05.svg" width="49%" alt="gig 05: dungeonborne offline, a dead online game brought back to play solo"></a>
+<a href="https://luizgodoy.dev/#gig-06"><img src="assets/gig-06.svg" width="49%" alt="gig 06: dungeonborned, a first-person extraction crawler in godot 4.7"></a>
+</p>
+<p align="center">
+<a href="https://luizgodoy.dev/#gig-07"><img src="assets/gig-07.svg" width="49%" alt="gig 07: throwdown, rock paper scissors where the loser reviews the PR"></a>
+<a href="https://luizgodoy.dev/#gig-08"><img src="assets/gig-08.svg" width="49%" alt="gig 08: local meeting copilot, whisper on cpu and notes into obsidian"></a>
+</p>
+<p align="center">
+<a href="https://github.com/LuizHGodoy/clizin"><img src="assets/gig-09.svg" width="49%" alt="gig 09: clizin, ai commit messages from ur staged diff, in portuguese"></a>
+<a href="https://github.com/LuizHGodoy/claude-e2e"><img src="assets/gig-10.svg" width="49%" alt="gig 10: claude-e2e, a claude code plugin that drives a real browser over ur app"></a>
+</p>
+<p align="center">
+<a href="https://luizgodoy.dev/#gig-XX"><img src="assets/gig-xx.svg" width="98.5%" alt="gig XX: classified. solve the breach on luizgodoy.dev to read this one."></a>
+<img src="assets/side-gigs.svg" width="98.5%" alt="side gigs: zig moba engine, grim, taskbar-dungeon, cael, apenas-apps-porcaria">
+</p>
+
+<img src="assets/profile.svg" width="100%" alt="profile. 3,604 contributions in 12 months, 266 of 366 days active, busiest hour 16:00 with a second spike at 02:00. rig: cachyos + hyprland, rose-pine. langs: typescript, gdscript, python, rust, go, zig.">
 
 <p align="center">
-  <img src="https://github-readme-stats-ten-khaki-98.vercel.app/api/top-langs/?username=LuizHGodoy&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats-ten-khaki-98.vercel.app/api?username=LuizHGodoy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=130c0d&title_color=f6b6be&text_color=f7e0e2&icon_color=29ab87&ring_color=f6b6be&custom_title=live%20feed" height="170" alt="live github stats">
+<img src="https://github-readme-stats-ten-khaki-98.vercel.app/api/top-langs/?username=LuizHGodoy&layout=compact&langs_count=8&hide_border=true&bg_color=130c0d&title_color=f6b6be&text_color=f7e0e2&custom_title=langs%20loaded" height="170" alt="top languages">
 </p>
 
----
+<img src="assets/comms.svg" width="100%" alt="comms. intercepted transmissions, all real, all typed by me. got a gig? ping me.">
 
-## 💡 Projects by Stack
+<p align="center"><code>/ <a href="https://github.com/LuizHGodoy">github.com/LuizHGodoy</a></code>&nbsp;
+<code>/ <a href="https://luizgodoy.dev">luizgodoy.dev</a></code>&nbsp;
+<code>/ <a href="https://auroratcg.app">auroratcg.app</a></code>&nbsp;
+<code>/ <a href="https://schemaflow.uk">schemaflow.uk</a></code>&nbsp;
+<code>/ <a href="https://plugpal.luizgodoy.dev">plugpal.luizgodoy.dev</a></code></p>
 
-Highlighting a project for a specific stack helps demonstrate your expertise in those areas.
+<img src="assets/touchdown.svg" width="100%" alt="touchdown at the ramen stall. AV abandoned. NCPD notified.">
 
-### 🟣 TypeScript & Node.js (Full-Stack)
-
-A project showcasing end-to-end development with the core JavaScript ecosystem.
-
-| Stack             | Project                                                                                        |
-| :---------------- | :--------------------------------------------------------------------------------------------- |
-| **TS/Node/React** | **[Planning Poker](https://planning-poker-fe.vercel.app)**: A tool for agile team estimations. |
-
-### 🔵 TypeScript (Utility/CLI)
-
-For command-line tools or utilities written in my favorite language.
-
-| Stack          | Project                                                                                                |
-| :------------- | :----------------------------------------------------------------------------------------------------- |
-| **TypeScript** | **[endPoint](https://github.com/LuizHGodoy/endPoint)**: An HTTP client utility for managing endpoints. |
-
-### 🟢 JavaScript (Legacy/Learning)
-
-Demonstrating foundational skills or fun projects.
-
-| Stack          | Project                                                                                                       |
-| :------------- | :------------------------------------------------------------------------------------------------------------ |
-| **JavaScript** | **[its-me-MAARIO](https://github.com/LuizHGodoy/its-me-MAARIO)**: A Super Mario World game demo for learning. |
-
----
+<sub>panels are generated by <a href="src/build.py"><code>src/build.py</code></a> from the same content as luizgodoy.dev. edit the data at the bottom, run it, commit <code>assets/</code>.</sub>
